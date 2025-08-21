@@ -1,0 +1,58 @@
+{
+  "name": "ui-commute-claim",
+  "version": "0.1.0",
+  "private": true,
+  "keywords": [
+    "datepicker",
+    "picker",
+    "multiple",
+    "react",
+    "date",
+    "multi",
+    "date-picker",
+    "multiple-mode"
+  ],
+  "dependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.3",
+    "js-file-download": "^0.4.12",
+    "jspdf": "^3.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-multi-date-picker": "3.1.2",
+    "react-scripts": "5.0.1",
+    "reactjs-popup": "^2.0.6",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
